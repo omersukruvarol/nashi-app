@@ -1434,5 +1434,10 @@
   "Details": "Ayrıntılar",
   "Copy details": "Ayrıntıları kopyala",
   "PDF password": "PDF parolası",
-  "Unlock PDF": "PDF’nin kilidini aç"
+  "Unlock PDF": "PDF’nin kilidini aç",
+  "Clear history": "Geçmişi temizle",
+  "Clear Library history?": "Kitaplık geçmişi temizlensin mi?",
+  "This removes history entries. Your files stay on disk.": "Bu işlem geçmiş kayıtlarını kaldırır. Dosyaların diskte kalır.",
+  "Remove from history": "Geçmişten kaldır",
+  "Library history could not be saved.": "Kitaplık geçmişi kaydedilemedi."
 }
